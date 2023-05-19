@@ -1,4 +1,4 @@
-# "Robocopy" with "FOR" loop
+# "xcopy" with "FOR" loop
 
 <b>Things to keep in mind:</b>
 * In the file data.txt write the name of the equipment.
@@ -8,4 +8,5 @@
 
 # Code sample:
 
-![imagen](https://github.com/putodruida/ROBOCOPY-FOR/assets/22397967/03341835-bce4-4592-8789-95612e8aa89e)
+![imagen](https://github.com/putodruida/Loops-in-Batch/assets/22397967/47d70427-552a-415a-a2f4-c0583fc7bef3)
+
